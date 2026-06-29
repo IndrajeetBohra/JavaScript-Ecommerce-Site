@@ -6,7 +6,7 @@ This project demonstrates core to advanced JavaScript concepts including DOM man
 
 ## Live Demo
 
-Can run this project locally by opening: amazon.html
+Can run this project locally by opening: index.html
 
 Or host it using GitHub Pages.
 
